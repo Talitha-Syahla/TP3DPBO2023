@@ -57,5 +57,7 @@ Database yang digunakan pada program ini ada 3 tabel, yaitu tabel company, tabel
 
 # Simulasi
 
+https://github.com/Talitha-Syahla/TP3DPBO2023/assets/119799623/d1d145af-7def-458a-9fd4-b16e5d9d25a1
+
 
 
