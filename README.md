@@ -21,7 +21,7 @@ File README ini berisikan design program, penjelasan alur program, dan dokumenta
 
 ## Design Database
 
-![DB Design](/db_hybe.jpeg)
+![db_hybe](https://github.com/Talitha-Syahla/TP3DPBO2023/assets/119799623/55392773-11e5-43f7-a58d-3dbe163fbcfd)
 
 Database yang digunakan pada program ini ada 3 tabel, yaitu tabel company, tabel grup, dan tabel member. Database ini memiliki relasi `one to manny`, dimana satu company memiliki banyak grup dan member di dalamnya. Relasi tersebut dihubungkan oleh _foreign key_ pada tabel grup yaitu `id_grup` dan tabel member yaitu `id_member` yang tertuju pada tabel company yaitu `id_company`.  
 
@@ -41,5 +41,21 @@ Database yang digunakan pada program ini ada 3 tabel, yaitu tabel company, tabel
 # Dokumentasi
 
     - Halaman Login
+![home](https://github.com/Talitha-Syahla/TP3DPBO2023/assets/119799623/3d8dedd2-60ba-45a0-b0e6-2c18397fe937)
+    
+    - Halaman Detail Naungan
+![detail](https://github.com/Talitha-Syahla/TP3DPBO2023/assets/119799623/0f6f2c95-4285-4f1c-8621-5d4530d92d39)
+    
+    - Halaman Tambah Naungan
+![add](https://github.com/Talitha-Syahla/TP3DPBO2023/assets/119799623/2856b486-42ba-4fe7-b312-c7f60e7fb4b9)
+    
+    - Halaman Grup
+![grup](https://github.com/Talitha-Syahla/TP3DPBO2023/assets/119799623/bafe5b10-f50f-4d16-a99d-5e140a820e92)
+    
+    - Halaman Member
+![member](https://github.com/Talitha-Syahla/TP3DPBO2023/assets/119799623/07346f7b-c383-44d3-b00f-d6a92767e7f4)
 
-!(screenshot/result/login.png)
+# Simulasi
+
+
+
